@@ -9,7 +9,7 @@
 - HTML & CSS
 - NodeJS & Express & MongoDB
 
-### 👨‍🦱 a little about myself:
+### 👨‍🦱 Un poco acerca de mí:
 - Tengo 24 años y vivo en la Ciudad de Buenos Aires.
 - Estudié un año Ingería en Sistemas en la UAI, luego me enamoré del estudio autodidacta.
 - Amo los animales 🐕😸.
