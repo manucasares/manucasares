@@ -11,7 +11,7 @@
 
 ### 👨‍🦱 Un poco acerca de mí:
 - Tengo 24 años y vivo en la Ciudad de Buenos Aires.
-- Estudié un año Ingería en Sistemas en la UAI, luego me enamoré del estudio autodidacta.
+- Estudié un año Ingeniería en Sistemas en la Universidad Abierta Interamericana, luego me enamoré del estudio autodidacta.
 - Amo los animales 🐕😸.
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
